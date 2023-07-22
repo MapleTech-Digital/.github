@@ -15,7 +15,9 @@ We want to work with you! 🤝
 - MapleTech is staffed by Canadians, so you know we're friendly and actually care about you ♥ and the quality of our work 
 
 ### 🍿 even more Fun Facts 
-  - We may be entirely virtual so that our reach is worldwide, but we are based exclusively in beautiful British Columbia, Canada, with team members spanning the whole province!
+  - 🍁 We may be entirely virtual so that our reach is worldwide, but we are based exclusively in beautiful British Columbia, Canada, with team members spanning the whole province!
+  - 👨‍💻 We create all of our technology in-house from scratch, using decades worth of real world experience!
+    
 
 
 
