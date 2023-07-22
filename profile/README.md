@@ -3,9 +3,9 @@
 
 Hi 👋 We're MapleTech Digital🍁 A full stack web solutions provider to your business! 
 
-Tired of Wix and SquareSpace cramping your style? 
-Tired of expensive studios with lots of office overhead squeezing you for every nickle and dime so they can pay their rent?
-Tired of being delivered low effort pre-baked template-based designed by the average freelancer?
+Tired of Wix and SquareSpace cramping your style?  
+Tired of expensive studios with lots of office overhead squeezing you for every nickle and dime so they can pay their rent?  
+Tired of being delivered low effort pre-baked template-based designs by the average freelancer?  
 
 We want to work with you! 🤝 
 
