@@ -1,22 +1,25 @@
 ## MapleTech Digital 
 #### A Canadian based small to medium size business full stack solution provider 
 
-Hi 👋 We're MapleTech Digital🍁 A full stack web solutions provider to your business! 
+Hi 👋 
 
-Tired of Wix and SquareSpace cramping your style?  
-Tired of expensive studios with lots of office overhead squeezing you for every nickle and dime so they can pay their rent?  
-Tired of being delivered low effort pre-baked template-based designs by the average freelancer?  
+We're MapleTech Digital 🍁 A Full Stack Web Solutions Provider to your Business!
 
-We want to work with you! 🤝 
+Tired of Wix and SquareSpace cramping your style?
+Tired of expensive studios with lots of office overhead squeezing you for every nickle and dime?
+Tired of being delivered low-effort, pre-baked template-based designs by average freelancers?
 
-- MapleTech is entirely virtual, we have no overhead, and those savings will be passed along to you 
-- MapleTech may be new, but it is staffed with experienced veterans in the field of delivering custom solutions to personal, small, medium, and even enterprise sized customers!
-- MapleTech is full stack. And when we say full stack, we really mean Full Stack, from the server to the browser, we have every angle covered.
-- MapleTech is staffed by Canadians, so you know we're friendly and actually care about you ♥ and the quality of our work 
+We want to work with you! 🤝
 
-### 🍿 even more Fun Facts 
-  - 🍁 We may be entirely virtual so that our reach is worldwide, but we are based exclusively in beautiful British Columbia, Canada, with team members spanning the whole province!
-  - 👨‍💻 We create all of our technology in-house from scratch, using decades worth of real world experience!
+MapleTech Digital is virtual. We have ZERO overhead, and those savings will be passed along to YOU!
+Our company is new, but we are staffed with experienced veterans in the field, delivering Custom, Hand-Made Solutions for Personal, Small, Medium, and even Enterprise-level Customers!
+
+MapleTech Digital is 100% full stack. And when we say full stack, we really mean FULL stack. From the server to the browser, we have every angle covered.
+
+🍁 We are entirely virtual, so our reach is worldwide, but we are proudly based exclusively in British Columbia, Canada, with team members spanning the whole province!
+👨‍💻 We create all of our technology in-house from scratch, using decades worth of real-world experience!
+
+If you are ready for Affordable, Personalized Solutions to all your Web Development and Graphic Design needs, Contact Us Today!
     
 
 
